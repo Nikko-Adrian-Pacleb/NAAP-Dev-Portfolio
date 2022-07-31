@@ -1,0 +1,14 @@
+.App {
+    .background-image {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        z-index: -1;
+    }
+}
+
+.container {
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+    animation-delay: 1s;
+}

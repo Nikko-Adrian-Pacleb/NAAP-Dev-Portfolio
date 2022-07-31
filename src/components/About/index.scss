@@ -1,0 +1,30 @@
+.about-page {
+    img {
+        position: absolute;
+        height: 60%;
+        width: auto;
+        top: 20%;
+        left: 60%;
+    }
+    .text-zone {
+        position: absolute;
+        top: 150px;
+        left: 100px;
+        width: 50%;
+
+        h1 {
+            margin: 0;
+            padding: 0;;
+            position: block;
+            font-size: 96px;
+            line-height: 113px;
+            color: white;
+            letter-spacing: 0.15em;
+        }
+        p {
+            margin: 0;
+            color: white;
+            font-size: 32px;
+        }
+    }
+}

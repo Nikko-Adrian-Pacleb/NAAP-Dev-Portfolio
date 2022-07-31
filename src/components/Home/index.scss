@@ -1,0 +1,28 @@
+.background-design {
+    
+}
+.home-page {
+    .text-zone {
+        position: absolute;
+        left: 100px;
+        top: 15%;
+        h1 {
+            margin: 0;
+            padding: 0;;
+            position: block;
+            font-size: 96px;
+            line-height: 113px;
+            color: white;
+            letter-spacing: -0.025em;
+        }
+        p{
+            color: #B6B6B6;
+            margin: 0;
+            padding: 0;
+            position: block;
+            font-weight: 400;
+            font-size: 32px;
+            line-height: 44px;
+        }
+    }
+}
